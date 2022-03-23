@@ -10,8 +10,8 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
@@ -27,14 +27,16 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Screenshot
-
-![](./screenshot/1.png)
-
 ### Links
 
 - Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/frontend-mentor-sunnyside-agency-landing-page-gcqICuUKm)
 - Live Site URL: [Live site URL here](https://heartfelt-brigadeiros-b508ce.netlify.app)
+
+
+### Screenshot
+
+![](./screenshot/1.png)
+
 
 ## My process
 
