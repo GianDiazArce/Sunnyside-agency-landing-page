@@ -327,6 +327,7 @@ body {
     justify-content: center;
     padding: 5em;
     background-color: hsl(167, 44%, 70%);
+    padding-bottom: 1em;
 }
 
 .footer__items {
